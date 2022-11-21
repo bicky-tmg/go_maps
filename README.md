@@ -1,1 +1,3 @@
-# go_maps
+# Maps
+
+Understanding Maps in Go
